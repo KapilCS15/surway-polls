@@ -20,6 +20,9 @@ Surway+ django app is a full featured polling app. You do not have to register i
 
 
 
+<img width="938" alt="Screenshot_20221218_183949" src="https://user-images.githubusercontent.com/86887239/208504742-370523c7-8323-413b-ad24-5fa2e1d6586d.png">
+
+
 
 
 
