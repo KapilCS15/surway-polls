@@ -6,3 +6,5 @@ Surway+ django app is a full featured polling app. You do not have to register i
 📊 Response visualization and exporting
 
 🔒 Data under your control! Unlike in Google Forms, Typeform, Doodle and others, the survey info and responses are kept private on your instance.
+
+! (https://www.dropbox.com/s/kehc61p7lvt2rq0/Screenshot_20221218_183736.png?dl=0)
